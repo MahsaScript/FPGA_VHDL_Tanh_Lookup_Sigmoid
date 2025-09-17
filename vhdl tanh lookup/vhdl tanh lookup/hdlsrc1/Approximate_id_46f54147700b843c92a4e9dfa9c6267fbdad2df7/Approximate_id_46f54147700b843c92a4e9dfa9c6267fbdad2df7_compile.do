@@ -1,0 +1,4 @@
+vlib work
+vcom  Approximate_id_46f54147700b843c92a4e9dfa9c6267fbdad2df7_pkg.vhd
+vcom  Source.vhd
+vcom  Approximate_id_46f54147700b843c92a4e9dfa9c6267fbdad2df7.vhd
